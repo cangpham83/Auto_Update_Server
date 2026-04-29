@@ -1,1 +1,1 @@
-1
+{"success":true, "isValid":true, "licenseKey":"CANG-PHAM-2026", "expiryDate":"2029-12-31", "message":"Kich hoat thanh cong"}
